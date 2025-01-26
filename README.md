@@ -1,2 +1,3 @@
-# phpMyAdmin-WEB
-Это phpMyAdmin но его скачивать и разархивировать не нужно хз короче
+# phpMyAdmin WEB
+- phpMyAdmin WEB распокованый phpMyAdmin
+- phpMyAmin Он нужен для роботы с серверами однако ЭТО НЕ МОЙ ПРОЕКТ
